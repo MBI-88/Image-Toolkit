@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="iconfile">
+    <file>230.ico</file>
+    <file>229.ico</file>
+    <file>228.ico</file>
+    <file>227.ico</file>
+    <file>226.ico</file>
+    <file>224.ico</file>
+  </qresource>
+</RCC>

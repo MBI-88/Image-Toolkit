@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Questionshield.ico</file>
+    <file>Ajust.ico</file>
+    <file>filter.ico</file>
+    <file>ic_settings_backup_restore_128_28716.ico</file>
+    <file>mas.ico</file>
+    <file>origImage.ico</file>
+    <file>quantizer.ico</file>
+    <file>Save.ico</file>
+    <file>search.ico</file>
+    <file>Transformer.ico</file>
+  </qresource>
+</RCC>
