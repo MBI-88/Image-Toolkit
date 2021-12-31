@@ -1,4 +1,4 @@
-You must be install opencv,PyQt5,numpy,PIL
+You must be installed: opencv,PyQt5,numpy,PIL
 
 please use: pip install opencv-contrib-python Pil numpy PyQt5
 
