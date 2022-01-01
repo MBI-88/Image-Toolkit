@@ -1,2 +1,2 @@
 # Image-Toolkit
-Aplication to processing image
+Aplication to process image
