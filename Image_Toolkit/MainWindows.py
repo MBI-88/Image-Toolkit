@@ -1385,7 +1385,7 @@ class Ui_MainWindow(object):
     
     def about(self) -> None:
         QtWidgets.QMessageBox.information(None,"ABOUT","""
-            Maked: 31/12/2021
+            Created: 31/12/2021
             Autor: MBI
             Lincense: Open source
             Contact: maikel8807@gmail.com
