@@ -1352,7 +1352,7 @@ class Ui_MainWindow(object):
     def help(self) -> None:
         QtWidgets.QMessageBox.information(None,"HELP","""
             *********************************************
-             This aplication is for processing image   
+            Aplication for processing image   
             *********************************************
             Modules: Opencv 
                      PIL 
