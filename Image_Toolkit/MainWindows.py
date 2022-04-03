@@ -1227,7 +1227,7 @@ class Ui_MainWindow(object):
 
             # MorphDict
             widgetMorphoDict = QtWidgets.QComboBox()
-            widgetMorphoDict.addItems(["Open","Close","TopHat","Gradient","BlackHat","Cross","Hitmiss","Ellipse","Dilate","Erode"])
+            widgetMorphoDict.addItems(["Open","Close","TopHat","Gradient","BlackHat","Cross","Ellipse","Dilate","Erode"])
             widgetMorphoDict.setEditable(False)
             widgetMorphoDict.setToolTip(self._translate("MainWindow", "<html><head/><body><p><span style=\" color:#ff0000;\">Morpho operation </span></p></body></html>"))
             widgetMorphoDict.currentTextChanged.connect(self.morphEx)
