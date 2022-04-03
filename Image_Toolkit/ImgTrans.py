@@ -69,7 +69,6 @@ class ImageMorph():
             "TopHat": cv2.MORPH_TOPHAT,
             "BlackHat": cv2.MORPH_BLACKHAT,
             "Cross": cv2.MORPH_CROSS,
-            "Hitmiss": cv2.MORPH_HITMISS,# error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::morphologyEx'
             "Ellipse": cv2.MORPH_ELLIPSE,
             "Dilate": cv2.MORPH_DILATE,
             "Erode": cv2.MORPH_ERODE
