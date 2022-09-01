@@ -1,5 +1,4 @@
-You must be installed: opencv,PyQt5,numpy,PIL
+ opencv-contrib-python
+ Pil
+ numpy PyQt5
 
-please use: pip install opencv-contrib-python Pil numpy PyQt5
-
-After that clike on MainWindows.py 
